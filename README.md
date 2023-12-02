@@ -32,4 +32,7 @@ The Telecommunications (Telco) industry, a cornerstone of global connectivity, o
 ### Features
  - Categorical features: `Customer ID`, `Gender`, `Senior Citizen` (binary), `Partner` (binary), `Dependents` (binary), `Phone Service` (binary), `Multiple Lines` (categorical), `Internet Service` (categorical), `Online Security` (categorical), `Online Backup` (categorical), `Device Protection` (categorical), `Tech Support` (categorical), `Streaming TV` (categorical), `Streaming Movies` (categorical), `Contract` (categorical), `Paperless Billing` (binary), `Payment Method` (categorical), `Churn` (binary, target variable).
 - Numerical features: `Monthly Charges`, `Total Charges`, `Tenure` (in months).
+- 
+### Exploratory Data Analysis
+### Modeling
 
