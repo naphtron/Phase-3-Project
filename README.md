@@ -36,8 +36,31 @@ The Telecommunications (Telco) industry, a cornerstone of global connectivity, o
 ### Exploratory Data Analysis
 During the EDA phase, the primary focus was to analyze the relationship between customer churn and various features. Here are key findings:
 #### Distribution of Churn(feature)
-()
+![Logo](https://github.com/naphtron/Phase-3-Project/blob/master/imgs/Churn%20Distribution.png)
+
+#### Churn Rate by Gender
+![Logo](https://github.com/naphtron/Phase-3-Project/blob/master/imgs/Churn%20Rate(Gender).PNG)
+
+#### Churn Rate by Tenure(Grouped)
+
+-  **"Tenure"** refers to the duration or length of time a customer has been using the services provided by the company
+  
+![Logo](https://github.com/naphtron/Phase-3-Project/blob/master/imgs/Churn(tenure).png)
 
 ### Modeling
+#### Method / Algorithms.
+- The project employs an iterative approach in the construction of models.
 
+- The methodology initiates with the establishment of a baseline model, incorporating logistic regression and a decision tree, subsequently advancing to a more sophisticated model, namely the Random Forest algorithm.
+
+- In addressing the nuances of this specific problem, the evaluation metric selected is recall. The performance assessment of models is conducted based on this chosen metric.
+
+- Subsequently, the identified model is subjected to a tuning process with the aim of enhancing its overall performance.
+
+#### Results
+##### General Results
+![Logo](https://github.com/naphtron/Phase-3-Project/blob/master/imgs/Model_table.PNG)
+
+##### Results sorted by Recall
+![Logo](https://github.com/naphtron/Phase-3-Project/blob/master/imgs/recall%20table.PNG)
 
