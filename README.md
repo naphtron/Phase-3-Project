@@ -35,6 +35,8 @@ The Telecommunications (Telco) industry, a cornerstone of global connectivity, o
 - 
 ### Exploratory Data Analysis
 During the EDA phase, the primary focus was to analyze the relationship between customer churn and various features. Here are key findings:
+#### Distribution of Churn(feature)
+()
 
 ### Modeling
 
